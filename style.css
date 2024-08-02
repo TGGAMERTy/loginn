@@ -1,0 +1,52 @@
+#card-content {
+    padding: 12px 44px;
+}
+#card-title {
+    font-family: "Raleway Thin", sans-serif;
+    letter-spacing: 4px;
+    padding-bottom: 23px;
+    padding-top: 13px;
+    text-align: center;
+    background-color: #e00505;
+}
+.underline-title {
+    background: -webkit-linear-gradient(right, #a6f77b, #2ec06f);
+    height: 2px;
+    margin: -1.1rem auto 0 auto;
+    width: 89px;
+}
+a {
+    text-decoration: none;
+}
+label {
+    font-family: "Raleway", sans-serif;
+    font-size: 11pt;
+}
+#forgot-pass {
+    color: #2dbd6e;
+    font-family: "Raleway", sans-serif;
+    font-size: 10pt;
+    margin-top: 3px;
+    text-align: right;
+}
+.form {
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+}
+.form-border {
+    background: -webkit-linear-gradient(right, #ff058f, #bec02e);
+    height: 1px;
+    width: 100%;
+}
+.form-content {
+    background: #e00505;
+    border: none;
+    outline: none;
+    padding-top: 14px;
+}
+.wrapper{
+    width: 420px;
+    background: #e00505;
+    color: azure;
+}
